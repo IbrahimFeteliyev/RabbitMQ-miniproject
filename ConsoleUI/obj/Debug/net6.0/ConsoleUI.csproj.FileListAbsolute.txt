@@ -1,0 +1,17 @@
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ref\ConsoleUI.dll
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+E:\C#\source\repos\RabbitMQ\ConsoleUI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CopyComplete
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+E:\C#\source\repos\RabbitMQ\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
